@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Empresa</string>
+    <string name="titulo">VENTA DE MANILLAS</string>
+    <string name="cantidad">Cantidad de Manillas</string>
+    <string name="material">Material</string>
+    <string name="dije">Dije</string>
+    <string name="tipo">Tipo</string>
+    <string name="moneda">Moneda</string>
+    <string name="total">Total a Pagar</string>
+    <string name="calcular">Mostrar Precio</string>
+    <string name="borrar">Borrar</string>
+    <string name="cuero">Cuero</string>
+    <string name="cuerda">Cuerda</string>
+    <string name="martillo">Martillo</string>
+    <string name="ancla">Ancla</string>
+    <string name="oro">Oro</string>
+    <string name="oro_rosado">Oro Rosado</string>
+    <string name="plata">Plata</string>
+    <string name="niquel">Níquel</string>
+    <string name="pesos">Pesos</string>
+    <string name="dolares">Dólares</string>
+    <string name="signo_peso">COP$</string>
+    <string name="signo_dolar">US$</string>
+    <string name="mensaje_error_cantidad">Digite la cantidad de manillas</string>
+    <string name="mensaje_error_cero">Digite un numero mayor a cero</string>
+    <string-array name="materiales">
+        <item>@string/cuero</item>
+        <item>@string/cuerda</item>
+    </string-array>
+    <string-array name="dijes">
+        <item>@string/martillo</item>
+        <item>@string/ancla</item>
+    </string-array>
+    <string-array name="tipos">
+        <item>@string/oro</item>
+        <item>@string/oro_rosado</item>
+        <item>@string/plata</item>
+        <item>@string/niquel</item>
+    </string-array>
+    <string-array name="monedas">
+        <item>@string/dolares</item>
+        <item>@string/pesos</item>
+    </string-array>
+</resources>

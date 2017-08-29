@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Company</string>
+    <string name="ancla">Anchor</string>
+    <string name="borrar">Clear</string>
+    <string name="calcular">Show Price</string>
+    <string name="cantidad">Number of Handles</string>
+    <string name="cuerda">Rope</string>
+    <string name="cuero">Leather</string>
+    <string name="dije">Charm</string>
+    <string name="dolares">Dolars</string>
+    <string name="martillo">Hammer</string>
+    <string name="material">Material</string>
+    <string name="mensaje_error_cantidad">Type the number of handles</string>
+    <string name="moneda">Currency</string>
+    <string name="niquel">Nickel</string>
+    <string name="oro">Gold</string>
+    <string name="oro_rosado">Pink Gold</string>
+    <string name="pesos">Pesos</string>
+    <string name="plata">Silver</string>
+    <string name="tipo">Type</string>
+    <string name="titulo">SALE OF HANDLES</string>
+    <string name="total">Total to Pay</string>
+    <string name="mensaje_error_cero">Type a number greater than zero</string>
+    <string name="signo_dolar">US$</string>
+    <string name="signo_peso">COP$</string>
+</resources>
